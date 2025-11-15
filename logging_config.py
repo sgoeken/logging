@@ -24,7 +24,7 @@ Example:
     >>> logger.info('Program started')
     >>> config.disable_console_logging()
 """
-# Copyright 2025 <Scott m Goeken>
+# Copyright 2025 Scott m Goeken
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
